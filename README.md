@@ -123,6 +123,35 @@ Brute Force	Account lockout triggered
 SQL Injection	No vulnerability found
 
 ✅ All security scenarios passed with strong quantum-attack resistance.
+## System Architecture
+<img width="680" height="295" alt="image" src="https://github.com/user-attachments/assets/0564ce1a-4c77-45f2-90f1-2b9547ced099" />
+
+
+## Output
+### Home:
+<img width="264" height="421" alt="image" src="https://github.com/user-attachments/assets/00a23192-3f11-4749-8f0c-7064e3f6d4c4" />
+
+### Registration
+
+<img width="256" height="425" alt="image" src="https://github.com/user-attachments/assets/e93990f0-c1e0-4770-b08d-f784d63a8726" />
+
+### Registration completed
+
+<img width="266" height="418" alt="image" src="https://github.com/user-attachments/assets/805cb3c0-7239-4ae1-8e44-ad5268abe1ae" />
+
+
+### Logged In
+<img width="261" height="420" alt="image" src="https://github.com/user-attachments/assets/d658f290-23b9-46a7-b352-e4cf04e9a0e0" />
+
+### DashBoard I
+<img width="263" height="419" alt="image" src="https://github.com/user-attachments/assets/43243d31-f98c-46fa-bc27-37bb27b5a504" />
+
+### DashBoard II
+<img width="256" height="422" alt="image" src="https://github.com/user-attachments/assets/4e5ebb21-2910-40ea-bbec-746e10717fc5" />
+
+### Server Logs
+<img width="615" height="212" alt="image" src="https://github.com/user-attachments/assets/75ca7c41-42ae-473d-a2e5-61c76c6fa97d" />
+
 
 ## Results and Impact
 
